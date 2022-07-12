@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maaddib
-- 👀 I’m interested in Malware analysis
-- 🌱 I’m currently learning x86 disassembly
+- 👀 I’m interested in cloud security 
+- 🌱 I’m currently learning purple teaming
 
 
 <!---

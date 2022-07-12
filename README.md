@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Maaddib
 - 👀 I’m interested in cloud security 
 - 🌱 I’m currently learning purple teaming
+- 🤞  I'm currently working on a PCAP threat investigation tool.
 
 
 <!---
